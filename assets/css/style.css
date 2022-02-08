@@ -236,7 +236,8 @@ section {
     font-size: 32px;
 }
 
-.contact-info p, .contact-info address {
+.contact-info p, 
+.contact-info address {
     margin: 20px 0;
     line-height: 1.5;
     font-size: 20px;
@@ -270,4 +271,14 @@ footer div {
 
 footer a {
     color: #024e76;
+}
+
+.page-title {
+    color: #fce138;
+    display: inline-block;
+    border-bottom: 4px solid #fce138;
+    padding: 0 80px 15px 80px;
+    font-weight: normal;
+    font-size: 42px;
+    font-style: italic;
 }
