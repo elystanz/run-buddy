@@ -12,3 +12,5 @@ https://elystanz.github.io/run-buddy
 
 ## Contribution
 Made with 💜 by Elyse
+
+### &copy; Run Buddy, Inc
