@@ -54,6 +54,13 @@ header nav ul li a {
 
 /* Hero Style End */
 
+.hero-cta h2 {
+    color: #fce138;
+    font-size: x-large;
+    font-style: italic;
+
+}
+
 .hero-form {
     background-color: #fce138;
     color: #024e76;
